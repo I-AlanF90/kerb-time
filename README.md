@@ -40,5 +40,6 @@ Changing the entire system clock can disrupt VPNs, pivot tunnels, and other long
 
 kerb-time solves this by applying the DC’s clock offset only to the command being executed.
 
-<img width="1873" height="1042" alt="image" src="https://github.com/user-attachments/assets/310c7a35-a17a-4b43-94f4-3115fb8f5e6a" />
+<img width="1873" height="1042" alt="SCR-20260819-sqbk" src="https://github.com/user-attachments/assets/cbc2caa3-0ef5-4272-a6d3-243d010c6d1c" />
+
 
